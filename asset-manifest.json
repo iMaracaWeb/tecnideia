@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tecnideia/static/css/main.cd7ba990.css",
+    "main.js": "/tecnideia/static/js/main.cc969986.js",
+    "static/media/savings.svg": "/tecnideia/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "static/media/logo.png": "/tecnideia/static/media/logo.0dffa415286807761697.png",
+    "index.html": "/tecnideia/index.html",
+    "static/media/loading.svg": "/tecnideia/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.cd7ba990.css.map": "/tecnideia/static/css/main.cd7ba990.css.map",
+    "main.cc969986.js.map": "/tecnideia/static/js/main.cc969986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7ba990.css",
+    "static/js/main.cc969986.js"
+  ]
+}
